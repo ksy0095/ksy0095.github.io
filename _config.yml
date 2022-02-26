@@ -21,7 +21,7 @@
 title: KSY0095's Github Repositories
 email: lamborghini0095@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Themed by ejjoo
+  This pages is a KSY0095's Github Repositories blog
 # baseurl: "/" # the subpath of your site, e.g. /blog
 # url: "http://ejjoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: ksy0095
@@ -45,7 +45,9 @@ tag_dir: tag/
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+ exclude:
+  - sitemap
+  - robots 
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
