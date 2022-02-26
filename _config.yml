@@ -45,9 +45,9 @@ tag_dir: tag/
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-exclude:
-  - sitemap
-  - robots 
+#exclude:
+#   - sitemap
+#   - robots 
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
