@@ -34,8 +34,23 @@ highlighter-theme: monokai
 date_format: "%Y-%M-%D"
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 category_dir: category/
 tag_dir: tag/
+
+#jekyll_admin:
+#  hidden_links:
+#    - posts
+#    - pages
+#    - staticfiles
+#    - datafiles
+#    - configuration
+#  homepage: "pages"
+
+#collections:
+#  posts:
+#    output: true
+#    siderbar_label: News
 
 # Exclude from processing.
 # The following items will not be processed, by default.
