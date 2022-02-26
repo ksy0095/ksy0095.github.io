@@ -47,10 +47,10 @@ tag_dir: tag/
 #    - configuration
 #  homepage: "pages"
 
-#collections:
-#  posts:
-#    output: true
-#    siderbar_label: News
+collections:
+  posts:
+    output: true
+    siderbar_label: News
 
 # Exclude from processing.
 # The following items will not be processed, by default.
