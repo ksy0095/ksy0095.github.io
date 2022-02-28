@@ -1,2 +1,3 @@
 User-agent: *
 Allow:/
+Sitemap: https://ksy0095.github.io/sitemap.xml
